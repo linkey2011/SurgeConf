@@ -1,0 +1,31 @@
+#该文件主要设定Supercell游戏公司策略
+
+
+# 皇室战争
+DOMAIN-SUFFIX,ocsp.sectigo.com
+DOMAIN-SUFFIX,q.qlogo.cn
+DOMAIN-SUFFIX,esports-clashroyale.scinbox.qq.com
+DOMAIN-SUFFIX,clashroyale.scinbox.qq.com
+DOMAIN-SUFFIX,1681.engine.mobileapptracking.com
+
+
+
+
+# 部落冲突
+DOMAIN-SUFFIX,clashofclans.scinbox.qq.com
+DOMAIN-SUFFIX,in.appcenter.ms
+DOMAIN-SUFFIX,www.googletagmanager.com
+DOMAIN-SUFFIX,vm.gtimg.cn
+DOMAIN-SUFFIX,supercell.com
+DOMAIN-SUFFIX,
+
+
+
+
+
+
+
+
+
+
+
